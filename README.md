@@ -1,7 +1,10 @@
 ## Olá, bem vindo ao meu perfil.🌼
 - Me chamo Nicole Andrade Machado.
 - Curitiba,pr 🐈‍⬛
+- Sou estudante da plataforma Alura, tendo meu último grande projeto o jogo Pong 🎮.
 
+  ## Email para contato:
+  - nicole.andrade.machado@escola.pr.gov.br
 
 ![](https://i.gifer.com/fetch/w300-preview/1c/1c29154636f73295ad5fe84068c7a180.gif)
 <!--
