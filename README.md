@@ -1,6 +1,9 @@
-## Hi there 👋
-curitiba,pr 🐈‍⬛
+## Olá, bem vindo ao meu perfil.🌼
+- Me chamo Nicole Andrade Machado.
+- Curitiba,pr 🐈‍⬛
 
+
+![](https://i.gifer.com/fetch/w300-preview/1c/1c29154636f73295ad5fe84068c7a180.gif)
 <!--
 **andradenicole07/andradenicole07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
